@@ -1,0 +1,45 @@
+Hello! Let's explore some US bikeshare data!
+Would you like to see data for Chicago, New York, or Washington?
+ Chicago
+
+Would you like to filter the data by month, day, or not at all? Type "none" for no time filter.
+ none
+
+Calculating the first statistic...
+Most popular Month for start time:  June
+That took 4.11130166053772 seconds.
+Calculating the next statistic...
+Most popular day : Tue
+That took 4.4775848388671875 seconds.
+Calculating the next statistic...
+Most popular hour of day for start time :  17
+That took 4.474568843841553 seconds.
+Calculating the next statistic...
+Total trip duration :  280871787.0
+Average trip duration :  936.242410808036
+That took 0.08714079856872559 seconds.
+Calculating the next statistic...
+Most Popular start station :  ('Streeter Dr & Grand Ave', 6911)
+Most Popular End station :  ('Streeter Dr & Grand Ave', 7512)
+That took 0.3462374210357666 seconds.
+Calculating the next statistic...
+Most Popular Trip :  ('Lake Shore Dr & Monroe St to Streeter Dr & Grand Ave', 854)
+That took 0.7231326103210449 seconds.
+Calculating the next statistic...
+Counts of each user type :  {'Subscriber': 238889, 'Customer': 61110, 'Dependent': 1}
+That took 0.11465311050415039 seconds.
+Calculating the next statistic...
+Counts of each gender :  {'Male': 181190, 'Female': 57758, '': 61052}
+That took 0.12730121612548828 seconds.
+Calculating the next statistic...
+Most earliest birth year :  ('1899', 14)
+Most recent birth year :  ('2016', 6)
+Most Popular birth year :  ('1989', 14666)
+That took 0.3071157932281494 seconds.
+
+Would you like to view individual trip data?Type 'yes' or 'no'.  yes
+
+[['1423854', '2017-06-23 15:09:32', '2017-06-23 15:14:53', '321', 'Wood St & Hubbard St', 'Damen Ave & Chicago Ave', 'Subscriber', 'Male', '1992.0'], ['955915', '2017-05-25 18:19:03', '2017-05-25 18:45:53', '1610', 'Theater on the Lake', 'Sheffield Ave & Waveland Ave', 'Subscriber', 'Female', '1992.0'], ['9031', '2017-01-04 08:27:49', '2017-01-04 08:34:45', '416', 'May St & Taylor St', 'Wood St & Taylor St', 'Subscriber', 'Male', '1981.0'], ['304487', '2017-03-06 13:49:38', '2017-03-06 13:55:28', '350', 'Christiana Ave & Lawrence Ave', 'St. Louis Ave & Balmoral Ave', 'Subscriber', 'Male', '1986.0'], ['45207', '2017-01-17 14:53:07', '2017-01-17 15:02:01', '534', 'Clark St & Randolph St', 'Desplaines St & Jackson Blvd', 'Subscriber', 'Male', '1975.0']]
+
+Would you like to view individual trip data?Type 'yes' or 'no'.  no
+Would you like to restart? Type 'yes' or 'no'. no
